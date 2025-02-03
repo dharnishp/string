@@ -5,6 +5,7 @@ Sample Output:
 hsinrahD htiW nraeL
 */
 //Code:
+package com.dharnish.strings;
 
 import java.util.Scanner;
 public class Program1 
