@@ -3,7 +3,7 @@
 		 string in Java.
 
  */
-package stringquestions;
+package com.dharnish.strings;
 
 import java.util.LinkedHashMap;
 import java.util.Scanner;
