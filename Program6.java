@@ -1,7 +1,7 @@
 /*
  * Write A Java Program to find the length of a string in Java.
  */
-package stringquestions;
+package com.dharnish.strings;
 
 import java.util.Scanner;
 
