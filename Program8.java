@@ -1,13 +1,12 @@
 /*
  * Write A Java Program prints the words of String in reverse order.
  */
-package stringquestions;
 
+package com.dharnish.strings;
 import java.util.Scanner;
 
 public class Program8 
 {
-
 	public static void main(String[] args) 
 	{
 		Scanner scn=new Scanner(System.in);
