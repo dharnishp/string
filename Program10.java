@@ -1,10 +1,10 @@
-/*Write A Java Program count the total number of vowels and consonants 
-		 In a String .
+/*
+Write A Java Program count the total number of vowels and consonants in a String .
 */
-package stringquestions;
+
+package com.dharnish.strings;
 
 import java.util.Scanner;
-
 public class Program10 
 {
 	public static void main(String[] args) 
