@@ -1,7 +1,10 @@
-package stringquestions;
+/*
+Write A Java Program swap two String without using third variable and Function.
+*/
+
+package com.dharnish.strings;
 
 import java.util.Scanner;
-
 public class Program9 
 {
 	public static void main(String[] args) 
