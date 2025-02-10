@@ -1,11 +1,10 @@
 /*
  * Write A Java Program to check if two Strings are anagrams ?
  */
-package stringquestions;
+package com.dharnish.strings;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class Program12 
 {
 	public static void main(String[] args) 
