@@ -1,10 +1,9 @@
 /*
  * Write A Java Program count the number of spaces in String .
  */
-package stringquestions;
+package com.dharnish.strings;
 
 import java.util.Scanner;
-
 public class Program11 
 {
 	public static void main(String[] args) 
