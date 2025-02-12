@@ -1,11 +1,11 @@
 /*
  * Write A Java Program prints vowels and consonants of a given string ? 
  */
-package stringquestions;
+package com.dharnish.strings;
 
 import java.util.Scanner;
 
-public class Program16 
+public class Program15
 {
 	public static void main(String[] args) 
 	{
