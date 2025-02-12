@@ -1,11 +1,11 @@
 /*
  * Write A Java Program convert first alphabet capital of each word in given String ?
  */
-package stringquestions;
+package com.dharnish.strings;
 
 import java.util.Scanner;
 
-public class Program17 
+public class Program16
 {
 	public static void main(String[] args) 
 	{
