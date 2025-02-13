@@ -6,7 +6,7 @@ package com.dharnish.strings;
 
 import java.util.Scanner;
 
-public class Program19 {
+public class Program18 {
 	public static void main(String[] args) 
 	{
 		Scanner scn=new Scanner(System.in);
