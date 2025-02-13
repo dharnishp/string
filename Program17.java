@@ -1,7 +1,8 @@
 /*
- * Write A Java Program concat two Strings by using plus operator 
- */
-package stringquestions;
+Write A Java Program concat two Strings by using plus operator 
+*/
+
+package com.dharnish.strings;
 
 import java.util.Scanner;
 
