@@ -1,7 +1,8 @@
 /*
- * Write A Java Program check if the both String are equals are not
- */
-package stringquestions;
+Write A Java Program check if the both String are equals are not
+*/
+
+package com.dharnish.strings;
 
 import java.util.Scanner;
 
