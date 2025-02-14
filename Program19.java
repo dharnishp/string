@@ -1,7 +1,7 @@
 /*
- * Write A Java Program to  find the first non-repeating character in a given String?
- */
-package stringquestions;
+Write A Java Program to  find the first non-repeating character in a given String?
+*/
+package com.dharnish.strings;
 
 import java.util.LinkedHashMap;
 import java.util.Scanner;
