@@ -7,7 +7,7 @@ import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Program20 
+public class Program19 
 {
 	public static void main(String[] args) 
 	{
